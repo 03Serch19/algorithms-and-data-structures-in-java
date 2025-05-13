@@ -1,1 +1,1 @@
-# fundamental-algorithms-and-data-structures-in-java
+# algorithms-and-data-structures-in-java
