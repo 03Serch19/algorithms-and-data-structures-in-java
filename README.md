@@ -6,3 +6,4 @@ Se analizar cómo estas estructuras de datos se vinculan con la optimización a 
 
 Mediante el mecanismo de gestión de memoria de Java, el Garbage Collector, se detallará el funcionamiento de las referencias entre objetos dinámicamente y las consideraciones sobre mutabilidad e inmutabilidad según las preferencias de implementación. El manejo del stack de llamadas de métodos nos permitirá explotar en profundidad los procesos de recursividad e iteración, así como la asignación dinámica de objetos. Estas capacidades son cruciales para la implementación de estructuras de datos y algoritmos complejos en Java.
 
+2025
